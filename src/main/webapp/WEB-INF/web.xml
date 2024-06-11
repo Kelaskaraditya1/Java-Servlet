@@ -9,6 +9,7 @@
   <servlet-name>addition_servlet</servlet-name>
   <url-pattern>/add</url-pattern>
   </servlet-mapping>
+    <servlet>
     <servlet-name>square_servlet</servlet-name>
   <servlet-class>com.starkindustries.SquareServlet</servlet-class>
   </servlet>
